@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1a907298.css",
+    "main.js": "./static/js/main.c91c0c9e.js",
+    "static/js/787.904ddf83.chunk.js": "./static/js/787.904ddf83.chunk.js",
+    "static/media/restart.mp3": "./static/media/restart.8479618c9820ee085aaf.mp3",
+    "static/media/board.svg": "./static/media/board.f29abecf95ed97c8c45f562622f0246d.svg",
+    "static/media/select.mp3": "./static/media/select.6a777aed0703d88001cc.mp3",
+    "static/media/eat.mp3": "./static/media/eat.a48a9574d3ec6367e9b2.mp3",
+    "static/media/move.mp3": "./static/media/move.75c3b27d83ed433197c6.mp3",
+    "static/media/bg.svg": "./static/media/bg.313e71d0c98904c1cf2edf1ad3476cf9.svg",
+    "static/media/rm.svg": "./static/media/rm.c4231c17669e0d87bc0b7e299bc0221c.svg",
+    "static/media/rc.svg": "./static/media/rc.8a827dedc94ae76d1aa241c826ac3596.svg",
+    "static/media/bp.svg": "./static/media/bp.ed51e1a308264d02acb936c184c27532.svg",
+    "static/media/be.svg": "./static/media/be.6a5047c05ddfa7cfe59cfa236b37fcbd.svg",
+    "static/media/rp.svg": "./static/media/rp.0eb3a002c12a35470ed2bf46ea528bd8.svg",
+    "static/media/bm.svg": "./static/media/bm.551a62ec617b1d1006e1aaac07fa5852.svg",
+    "static/media/re.svg": "./static/media/re.9894ec55c24690e50a02837a5e801c21.svg",
+    "static/media/bc.svg": "./static/media/bc.5b0d3867f1057e6be53103178590fbd9.svg",
+    "static/media/rg.svg": "./static/media/rg.07e4f8cb710cb8eb6a1fb6e6af76453d.svg",
+    "static/media/bz.svg": "./static/media/bz.6696f589562ba30e591ec51531d1b1a8.svg",
+    "static/media/rz.svg": "./static/media/rz.fa76eaccb310bc7ad428a26779b7f9da.svg",
+    "static/media/rs.svg": "./static/media/rs.a84b0bf82572e45495972202a60243ab.svg",
+    "static/media/bs.svg": "./static/media/bs.2494325bd1bcca7986a76ef84ee75ab1.svg",
+    "index.html": "./index.html",
+    "static/media/bempty.svg": "./static/media/bempty.05b15e153380c95e90b43541a92d083c.svg",
+    "static/media/rempty.svg": "./static/media/rempty.e887f038e0b37244910cb1ecfcfe71a6.svg",
+    "static/media/nn.svg": "./static/media/nn.66d47438247bd1ea06c16e350a10a684.svg",
+    "main.1a907298.css.map": "./static/css/main.1a907298.css.map",
+    "main.c91c0c9e.js.map": "./static/js/main.c91c0c9e.js.map",
+    "787.904ddf83.chunk.js.map": "./static/js/787.904ddf83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a907298.css",
+    "static/js/main.c91c0c9e.js"
+  ]
+}
